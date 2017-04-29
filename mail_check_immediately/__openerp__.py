@@ -10,7 +10,7 @@
     'currency': 'EUR',
     'depends': ['base', 'web', 'fetchmail', 'mail'],
     'data': [
-        'views.xml',
+        'views/views.xml',
     ],
     'qweb': [
         "static/src/xml/main.xml",
